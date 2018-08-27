@@ -1,0 +1,14 @@
+{
+  "name": "hamStudy.github.io",
+  "homepage": "https://github.com/mastermccabe/hamStudy.github.io",
+  "_release": "faf7791646",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "faf77916469d13c206d0529d31d6eb7f7b23203d"
+  },
+  "_source": "https://github.com/mastermccabe/hamStudy.github.io.git",
+  "_target": "*",
+  "_originalSource": "mastermccabe/hamStudy.github.io",
+  "_direct": true
+}
